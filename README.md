@@ -20,8 +20,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ☆ Projeto
 
-O projeto tem o obetivo de criar uma página da web atraente e responsiva que oferece informações sobre o jogo Pokémon. O design utiliza cores vibrantes, uma fonte personalizada e um layout flexível para proporcionar uma experiência de usuário envolvente.
-A página apresenta um cabeçalho com um link para o site oficial do Pokémon, além de outro link para outro projeto de pokemon, no caso um Pokédex.
+O projeto tem o obetivo de criar uma página da web atraente e responsiva que oferece informações sobre um jodo de Pokémon. O design da página utiliza cores vibrantes, uma fonte personalizada e um layout flexível para proporcionar uma experiência agradavel para o usuário.<br>
+A página apresenta um cabeçalho com um link para o site oficial do Pokémon, além de outro link para outro projeto de pokemon, no caso um Pokédex.<br>
 Além de tudo isso o site possui adaptações para diferentes tamanhos de tela, incluindo tablets e dispositivos móveis, alé do padrão que é o desktop, assim tornando o site acessível e visualmente agradável.
 
 ## ☆ Licença
