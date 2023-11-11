@@ -146,6 +146,10 @@ main{
     footer{
         display: none;
     }
+
+    .pokemon{
+        display: none;
+    }
 }
 
 @media (max-width:640px) {
@@ -161,5 +165,8 @@ main{
     }
     .pikachu-image{
         width: 90vw;
+    }
+    .pokemon{
+        display: none;
     }
 }
